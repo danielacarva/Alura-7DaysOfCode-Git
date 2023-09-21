@@ -2,8 +2,12 @@
 >Neste desafio serão 7 dias com desafios diários, exigindo uma média de 1 hora de dedicação diária.
 
 >O objetivo é desenvolver as habilidade de versionamento de código.
->Começamos:<br>
->19/09/2023. Criar repositório e arquivo Readme.md;
->20/09/2023: criar no próprio repositório arquivos index.html e style.css. Fazer upload de pasta de imagens.
+>Começamos:
+>
+>19/09/2023. Criar repositório e arquivo Readme.md
+>
+>20/09/2023: Criar no próprio repositório arquivos index.html e style.css. Fazer upload de pasta de imagens.
+>
+>21/09/93: Clonar este repositório remoto para a máquina local (arquivo no Visual Studio Code)
 
 >Este arquivo será atualizado diariamente.
